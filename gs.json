@@ -1,19 +1,19 @@
 {
-    "version": "0.8.7",
+    "version": "0.8.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/alethi-dev/gitstack-releases/releases/download/v0.8.7/gitstack_0.8.7_windows_amd64.zip",
+            "url": "https://github.com/alethi-dev/gitstack-releases/releases/download/v0.8.8/gitstack_0.8.8_windows_amd64.zip",
             "bin": [
                 "gs.exe"
             ],
-            "hash": "e5056cdb082db3dc55083849e93500d7463874aec08ea7990aa911d4cdfee597"
+            "hash": "7db1e404f3c238c3b8f08060fd6be1fda8f7f51b15abb97c10467c48bedafe1b"
         },
         "arm64": {
-            "url": "https://github.com/alethi-dev/gitstack-releases/releases/download/v0.8.7/gitstack_0.8.7_windows_arm64.zip",
+            "url": "https://github.com/alethi-dev/gitstack-releases/releases/download/v0.8.8/gitstack_0.8.8_windows_arm64.zip",
             "bin": [
                 "gs.exe"
             ],
-            "hash": "a029e7ce4ea1ae83e41b55f692a6ddd40dd25ee098e19f832ef537bcd4a8e02e"
+            "hash": "4d95618dacc934b850eb38fa0779e9b5727617f04125dc64d3a3e218a41a23cc"
         }
     },
     "homepage": "https://gitstack.sh",
